@@ -8,17 +8,17 @@
   
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas, concluinndo em 2024 pela Universidade São Francisco.
   
-👔Experiência Profissional
+## Experiência Profissional
 - Controlador de Acesso (VigBens, 2021-atual)
 - Assistente Administrativo (Itaiquara Alimentos S.A., 2017-2019)
 - Técnico em Manutenção (Realt Line Com de Prod LTDA, 2013-2015)
 
-🛠️Habilidades Técnicas
+## Habilidades Técnicas
 - Linguagens: Python
 - Ferramentas: Office, Linux, MySql, Cloud AWS, Visual Studio Code
 - Tecnologias: HTML/Css, Looker Studio, Power BI
 
-🖼️Certificações
+## Certificações
 
 DNC 2024; Analista de Business Intelligence - 
           SQL para análise de dados
@@ -41,3 +41,7 @@ ESCOLA DA NUVEM 2023;  AWS Re/start
 CERTIFICAÇÃO 2023; AWS Cloud Practitioner 
 
 CISCO 2023; Python fundamentos 
+
+## Contato
+E-mail gil.ps12@gmail.com
+Telefone (13) 98806-3859
