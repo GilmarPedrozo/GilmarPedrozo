@@ -14,9 +14,10 @@
 - Técnico em Manutenção (Realt Line Com de Prod LTDA, 2013-2015)
 
 ## Habilidades Técnicas
-- Linguagens: Python
+- Linguagens: 
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 - Ferramentas: Office, Linux, MySql, Cloud AWS, Visual Studio Code
-- Tecnologias: HTML/Css, Looker Studio, Power BI
+- Tecnologias: <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/lookerstudio-239120?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/powerbi-239120?style=for-the-badge&logo=html5&logoColor=white">
 
 ## Certificações
 
@@ -43,5 +44,5 @@ CERTIFICAÇÃO 2023; AWS Cloud Practitioner
 CISCO 2023; Python fundamentos 
 
 ## Contato
-E-mail gil.ps12@gmail.com
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> gil.ps12@gmail.com
 Telefone (13) 98806-3859
