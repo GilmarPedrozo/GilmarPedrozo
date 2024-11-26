@@ -49,15 +49,12 @@
 <br></div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=321488&height=120&section=footer"/>## Olá! Eu sou o Gilmar Pedrozo 👋
-
-
 - 🔭 Sobre mim
 
   Estou em transição de carreira, buscando oportunidades em tecnologias de Cloud Computing e análise de dados.
   Meu objetivo é ingressar, me desenvolver e crescer com uma organização.
   
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas, concluinndo em 2024 pela Universidade São Francisco.
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas, concluindo em 2024 pela Universidade São Francisco.
   
 ## Certificações
 
