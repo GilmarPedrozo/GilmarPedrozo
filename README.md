@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=321488&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=321488&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Gilmar+Pedrozo;Estudo+Análise+e+desenvolvimento+de+Sistemas+na+USF;Seja+Benvindo!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=321488&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Gilmar+Pedrozo;Tenho+53+anos;Estudo+Análise+e+desenvolvimento+de+Sistemas+na+USF;Seja+Benvindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GilmarPedrozo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gilmar Pedrozo Status no Git" /> 
@@ -25,6 +25,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&textColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-amazonwebservices-0D1117?style=for-the-badge&logo=amazonwebservices&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ### Ferramentas:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
