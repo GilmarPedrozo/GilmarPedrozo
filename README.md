@@ -54,7 +54,7 @@
   Estou em transição de carreira, buscando oportunidades em tecnologias de Cloud Computing e análise de dados.
   Meu objetivo é ingressar, me desenvolver e crescer com uma organização.
   
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas, concluindo em 2024 pela Universidade São Francisco.
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas, concluído em dezembro de 2024 pela Universidade São Francisco.
   
 ## Certificações
 
